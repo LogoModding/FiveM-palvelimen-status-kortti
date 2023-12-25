@@ -1,0 +1,25 @@
+{
+    "onlineString": "🟩 Auki",
+    "onlineColor": "#0BA70B",
+    "partialString": "🟨 Käynnistymässä",
+    "partialColor": "#FFF100",
+    "offlineString": "🟥 Kiinni",
+    "offlineColor": "#A70B28",
+    "buttons": [
+        {
+            "emoji": "1062338355909640233",
+            "label": "Nyt servulle",
+            "url": "{{serverJoinUrl}}"
+        },
+        {
+            "emoji": "❤️",
+            "label": "Aitohosting Discord",
+            "url": "https://discord.gg/kPAkFZVK42"
+        },
+        {
+            "emoji": "💳",
+            "label": "Aitohosting verkkokauppa",
+            "url": "https://dev.aitohosting.com/whmcs/"
+        }
+    ]
+}
